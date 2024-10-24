@@ -7,8 +7,6 @@ assignees: ColdbloodDK
 
 ---
 
----
-
 **🐛 Bug Description**  
 A clear and concise description of the bug you encountered.
 
@@ -33,5 +31,3 @@ Attach any error logs or screenshots that might help in diagnosing the problem.
 
 **🔗 Additional Context**  
 Add any other context or relevant information, such as third-party libraries, custom configurations, or related links.
-
----
