@@ -1,7 +1,6 @@
 #!/usr/bin/env node
 import { Compile } from "./components/compiler";
 import { Setup } from "./components/setup";
-import { ConsoleMessage } from "./utils";
 
 const args = process.argv;
 
