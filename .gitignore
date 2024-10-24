@@ -1,0 +1,7 @@
+/dist
+/node_modules
+nodeseacomp.json
+sea-config.json
+/output
+/intermediate
+/build
