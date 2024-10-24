@@ -30,7 +30,7 @@
 ```
 npx github:coldblooddk/nodeseacomp
 ```
-<div style="text-align: center;">
+<p align="center">
 
 ## Compatibility?
 |   Platform  | Is Compatible |   Is Tested   |
@@ -39,4 +39,5 @@ npx github:coldblooddk/nodeseacomp
 | **Linux**   | **Yes**       | **Yes**       |
 | **MacOS**   | **In Theory** | **Not yet**   |
 
-</div>
+</p>
+
