@@ -30,8 +30,6 @@
 ```
 npx github:coldblooddk/nodeseacomp
 ```
-<p align="center">
-
 ## Compatibility?
 |   Platform  | Is Compatible |   Is Tested   |
 |-------------|---------------|---------------|
@@ -39,5 +37,4 @@ npx github:coldblooddk/nodeseacomp
 | **Linux**   | **Yes**       | **Yes**       |
 | **MacOS**   | **In Theory** | **Not yet**   |
 
-</p>
 
