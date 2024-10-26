@@ -30,13 +30,14 @@
 ```
 npx github:coldblooddk/nodeseacomp
 ```
-<div style="text-align: center;">
+<p align="center">
 
-  ## Compatibility?
-  |   Platform  | Is Compatible |   Is Tested   |
-  |-------------|---------------|---------------|
-  | **Windows** | **Yes**       | **Yes**       |
-  | **Linux**   | **Yes**       | **Yes**       |
-  | **MacOS**   | **In Theory** | **Not yet**   |
+## Compatibility?
+|   Platform  | Is Compatible |   Is Tested   |
+|-------------|---------------|---------------|
+| **Windows** | **Yes**       | **Yes**       |
+| **Linux**   | **Yes**       | **Yes**       |
+| **MacOS**   | **In Theory** | **Not yet**   |
 
-</div>
+</p>
+
