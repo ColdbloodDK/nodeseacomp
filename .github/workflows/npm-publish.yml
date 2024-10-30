@@ -20,8 +20,13 @@ jobs:
           node-version: 20
           registry-url: https://registry.npmjs.org/
 
-      - name: Run Clear Install of Dependencies
-        run: npm ci
+      - name: Install pnpm
+      uses: pnpm/action-setup@v4
+      with:
+        version: 9
+
+      - name: Run Install of Dependencies
+        run: pnpm install
 
       - name: Run Typescript Compiler
         run: npx tsc
