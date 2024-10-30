@@ -25,8 +25,11 @@ jobs:
         with:
           version: 9
 
-      - name: Run Install of Dependencies
+      - name: Install of Dependencies
         run: pnpm install
+
+      - name: Install Typescript
+        run: npm install typescript
 
       - name: Run Typescript Compiler
         run: npx tsc
