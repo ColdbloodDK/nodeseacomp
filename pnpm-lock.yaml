@@ -29,9 +29,6 @@ importers:
       unzipper:
         specifier: ^0.12.3
         version: 0.12.3
-      xz:
-        specifier: link:@napi-rs/lzma/xz
-        version: link:@napi-rs/lzma/xz
     devDependencies:
       '@types/node':
         specifier: ^22.7.7
