@@ -27,9 +27,16 @@
 
 <!-- GETTING STARTED -->
 ## How to use it?
-```
-npx github:coldblooddk/nodeseacomp
-```
+### You can use NodeSEAComp in 2 ways:
+1) Install & Run
+        
+        npm i -g nodeseacomp
+        # and then you can run it with
+        nodeseacomp
+2) Directly run with npx
+
+        npx nodeseacomp
+ 
 <div style="text-align: center;">
 
   ## Compatibility?
@@ -38,5 +45,3 @@ npx github:coldblooddk/nodeseacomp
   | **Windows** | **Yes**       | **Yes**       |
   | **Linux**   | **Yes**       | **Yes**       |
   | **MacOS**   | **In Theory** | **Not yet**   |
-
-
